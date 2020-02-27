@@ -1654,3 +1654,263 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-02.05.23:140][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2020.02.27-02.05.23:397][250]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap11985A5142FFA1E54E5F85B1D8FA4F63.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.02.27-02.05.23:703][250]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData5D07A39842F3970D68562E948DB33EBB.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.21.40:267][391]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.27-02.22.19:723][499]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak needed to have new flag set bUsedWithSkeletalMesh !
+[2020.02.27-02.22.19:729][499]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2020.02.27-02.22.22:436][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-02.22.22:456][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.22:456][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-02.22.22:456][632]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 26, 2020, 10:22:22 AM)
+[2020.02.27-02.22.22:456][632]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-02.22.22:477][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020564s)
+[2020.02.27-02.22.22:478][632]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.27-02.22.22:478][632]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2020.02.27-02.22.22:479][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022270s)
+[2020.02.27-02.22.22:531][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.27-02.22.22:538][632]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-02.22.22:568][632]LogInit: FAudioDevice initialized.
+[2020.02.27-02.22.22:599][632]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.27-02.22.22:603][632]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.26-18.22.22
+[2020.02.27-02.22.22:603][632]LogWorld: Bringing up level for play took: 0.003450
+[2020.02.27-02.22.22:617][632]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.811
+[2020.02.27-02.22.22:618][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.29:799][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.29:800][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.22.29:848][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-02.22.29:848][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.29:897][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.22.29:902][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.27-02.22.29:931][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.27-02.22.33:229][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-02.22.33:296][258]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-02.22.33:308][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.33:308][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-02.22.33:308][258]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 26, 2020, 10:22:33 AM)
+[2020.02.27-02.22.33:308][258]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-02.22.33:321][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012915s)
+[2020.02.27-02.22.33:322][258]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.27-02.22.33:322][258]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2020.02.27-02.22.33:322][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014008s)
+[2020.02.27-02.22.33:358][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.27-02.22.33:362][258]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-02.22.33:376][258]LogInit: FAudioDevice initialized.
+[2020.02.27-02.22.33:406][258]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.27-02.22.33:409][258]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.26-18.22.33
+[2020.02.27-02.22.33:409][258]LogWorld: Bringing up level for play took: 0.002064
+[2020.02.27-02.22.33:422][258]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.385
+[2020.02.27-02.22.33:422][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.49:775][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.49:775][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.22.49:807][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-02.22.49:807][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.22.49:846][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.22.49:850][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.27-02.22.49:904][239]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.27-02.22.52:990][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-02.24.34:765][ 17]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonCharacterDC27DF3847CEB53FA5C5319E670E566D.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.27-02.24.35:174][ 40]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.27-02.24.35:179][ 40]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.27-02.25.19:489][919]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu.Menu
+[2020.02.27-02.25.19:812][919]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.27-02.26.47:355][906]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.02.27-02.26.47:607][906]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_Auto1CEDFBD4F47BBC9F91CF32DA4D3B1D15C.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.27-02.26.47:610][906]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.330
+[2020.02.27-02.26.47:610][906]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.330
+[2020.02.27-02.26.47:614][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Oak] ([1] browsable assets)...
+[2020.02.27-02.26.47:627][906]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak]
+[2020.02.27-02.26.47:628][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Oak]
+[2020.02.27-02.26.47:660][906]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/M_Wood_Oak_Auto1C9859FCB4F0842DE6A9AEA8F2E341995.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto1.uasset'
+[2020.02.27-02.26.47:662][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu] ([1] browsable assets)...
+[2020.02.27-02.26.47:662][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu]
+[2020.02.27-02.26.47:662][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Menu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.27-02.26.47:675][906]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Menu_Auto14B7893C8453CF70962B4698C51FC2D70.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Menu_Auto1.uasset'
+[2020.02.27-02.26.47:677][906]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.02.27-02.27.05:717][386]BlueprintLog: New page: Compile Menu
+[2020.02.27-02.27.05:765][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.02.27-02.27.06:316][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Menu.uasset" SILENT=true
+[2020.02.27-02.27.06:327][413]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/MenuACA378F040D14F7D2DB00F819B1558EE.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Menu.uasset'
+[2020.02.27-02.27.07:164][453]LogSlate: Window 'Menu' being destroyed
+[2020.02.27-02.27.07:168][453]LogSlate: Window 'Menu' being destroyed
+[2020.02.27-02.27.08:888][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.02.27-02.27.09:092][544]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap2534AF974170F8C308E8FF8F78564675.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-02.27.09:321][544]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData660F0A184D13059293CB63AA421F4AFF.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.28.13:079][990]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/sdn49/Desktop/Nux-Mode-Text.png)
+[2020.02.27-02.28.13:089][990]LogTexture: Display: Building textures: Nux-Mode-Text (AutoDXT, 1172X152)
+[2020.02.27-02.28.15:648][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.27-02.28.15:854][125]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMapEA04125B4FE58AABD6C1D0A5061A9ADA.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-02.28.16:081][125]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData15E7AFC84A130926997FFB804F3CE595.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.28.25:920][703]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Nux-Mode-Message.Nux-Mode-Message
+[2020.02.27-02.29.16:587][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nux-Mode-Message" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Message.uasset" SILENT=true
+[2020.02.27-02.29.16:605][582]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Nux-Mode-MessageDA332B08465B5D4B7ADD4B84BA0F0FF6.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Message.uasset'
+[2020.02.27-02.29.18:260][672]BlueprintLog: New page: Compile Nux-Mode-Message
+[2020.02.27-02.29.18:444][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.02.27-02.29.34:153][582]LogSlate: Window 'Nux-Mode-Message' being destroyed
+[2020.02.27-02.29.34:159][582]LogSlate: Window 'Nux-Mode-Message' being destroyed
+[2020.02.27-02.29.38:409][834]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.27-02.29.59:179][992]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-02.30.02:548][189]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.27-02.30.02:737][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.02.27-02.30.03:250][205]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonCharacter6448283444AB697BB252B0AFABC9380D.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.27-02.30.03:641][227]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.27-02.30.03:649][227]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.27-02.30.05:904][322]LogUObjectHash: Compacting FUObjectHashTables data took  10.91ms
+[2020.02.27-02.30.06:623][322]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMapA196215648B259E24617778751F9F053.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-02.30.07:562][322]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData2ABFEE284F055EB314FF50A76893D74B.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.30.11:558][392]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-02.30.11:713][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.11:713][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-02.30.11:714][392]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 26, 2020, 10:30:11 AM)
+[2020.02.27-02.30.11:714][392]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-02.30.11:753][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039424s)
+[2020.02.27-02.30.11:754][392]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.27-02.30.11:755][392]LogPlayLevel: PIE: World Init took: (0.002161s)
+[2020.02.27-02.30.11:756][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042416s)
+[2020.02.27-02.30.11:903][392]LogUObjectHash: Compacting FUObjectHashTables data took  11.92ms
+[2020.02.27-02.30.11:924][392]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-02.30.11:995][392]LogInit: FAudioDevice initialized.
+[2020.02.27-02.30.12:038][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.27-02.30.12:047][392]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.26-18.30.12
+[2020.02.27-02.30.12:048][392]LogWorld: Bringing up level for play took: 0.006489
+[2020.02.27-02.30.12:065][392]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.259
+[2020.02.27-02.30.12:066][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.12:885][406]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.15:474][510]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.19:865][653]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.19:904][653]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074891 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.02.27-02.30.20:747][655]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.21:512][656]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.24:897][777]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.25:798][782]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.26:664][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.27:487][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.27:494][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.27:495][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.30.27:890][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-02.30.27:890][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.28:014][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.30.28:029][786]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.02.27-02.30.28:117][787]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.27-02.30.29:003][802]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.29:331][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-02.30.29:891][805]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.30:668][807]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.30:674][807]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-02.30.30:730][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.30:730][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-02.30.30:730][807]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 26, 2020, 10:30:30 AM)
+[2020.02.27-02.30.30:731][807]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-02.30.30:766][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034800s)
+[2020.02.27-02.30.30:767][807]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.27-02.30.30:768][807]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2020.02.27-02.30.30:768][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037026s)
+[2020.02.27-02.30.30:875][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.02.27-02.30.30:889][807]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-02.30.30:937][807]LogInit: FAudioDevice initialized.
+[2020.02.27-02.30.31:121][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.27-02.30.31:129][807]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.26-18.30.31
+[2020.02.27-02.30.31:130][807]LogWorld: Bringing up level for play took: 0.006224
+[2020.02.27-02.30.31:147][807]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.341
+[2020.02.27-02.30.31:147][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.32:036][821]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.32:952][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.33:837][830]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.34:727][833]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.35:617][837]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.36:425][838]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.37:664][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.40:185][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.41:029][911]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.41:457][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.41:458][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.30.41:499][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-02.30.41:500][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-02.30.41:611][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-02.30.41:625][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.02.27-02.30.41:661][919]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.02.27-02.30.42:307][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.42:708][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-02.30.43:245][931]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.44:352][936]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.45:136][936]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.45:627][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.27-02.30.46:449][936]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMapCBE8BC0F4630BB51224EB2AFC086F34A.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-02.30.47:354][936]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData70EA60054F8333F77EF0DB88B9F26B35.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.30.49:106][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.49:982][990]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.50:846][993]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.51:686][996]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.52:797][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.53:531][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.53:928][  7]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Nux-Mode-Text.Nux-Mode-Text
+[2020.02.27-02.30.53:970][  7]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.02.27-02.30.53:973][  7]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2020.02.27-02.30.56:462][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.58:920][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.30.59:755][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.00:458][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nux-Mode-Text" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Text.uasset" SILENT=true
+[2020.02.27-02.31.00:550][ 68]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Nux-Mode-Text018D063947030ADF9C962AAF6A63C71F.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Text.uasset'
+[2020.02.27-02.31.01:153][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.03:111][ 82]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.03:940][ 83]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.04:287][ 83]LogSlate: Window 'Nux-Mode-Text' being destroyed
+[2020.02.27-02.31.04:349][ 83]LogSlate: Window 'Nux-Mode-Text' being destroyed
+[2020.02.27-02.31.05:094][ 90]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.05:595][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.06:095][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.07:315][124]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Nux-Mode-Message.Nux-Mode-Message
+[2020.02.27-02.31.10:229][128]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.11:075][131]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.12:109][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.12:927][137]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.13:939][142]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.14:440][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.14:940][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.15:590][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.18:682][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.19:633][220]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.20:481][222]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.20:984][222]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.21:488][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.23:640][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.24:511][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.25:555][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.26:068][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.27:919][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.28:940][302]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.29:927][302]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.31:101][310]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.32:124][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.32:629][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.34:957][333]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.35:758][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.36:871][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.37:373][345]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.37:873][345]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.38:566][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.39:069][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.39:575][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.40:430][357]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.41:507][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.42:702][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nux-Mode-Message" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Message.uasset" SILENT=true
+[2020.02.27-02.31.42:775][364]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/Nux-Mode-MessageC4A4621649EEA6F20986D397D9D81657.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/Nux-Mode-Message.uasset'
+[2020.02.27-02.31.43:492][371]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.43:993][372]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.44:494][372]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.45:056][390]LogSlate: Window 'Nux-Mode-Message' being destroyed
+[2020.02.27-02.31.45:083][390]LogSlate: Window 'Nux-Mode-Message' being destroyed
+[2020.02.27-02.31.45:814][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.46:315][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.46:816][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.48:625][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.49:560][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.31.50:273][455]LogUObjectHash: Compacting FUObjectHashTables data took  27.26ms
+[2020.02.27-02.31.51:246][455]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap36855D3D4029825796D9D9831C9BF0E0.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-02.31.52:208][455]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_BuiltData4CC99D274DD27CA6131E44ACF7D5606B.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.31.52:982][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.01:203][514]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.01:875][515]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.03:534][516]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.05:169][517]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.10:392][533]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.11:196][534]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.27-02.32.11:997][535]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
