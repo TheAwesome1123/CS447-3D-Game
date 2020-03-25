@@ -771,3 +771,115 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-19.45.37:514][364]SourceControl:  create mode 100644 CS447_3D_Game/Content/Safe/Keypad1.uasset
 [2020.03.25-19.45.37:514][364]SourceControl:  create mode 100644 CS447_3D_Game/Content/Safe/KeypadActor.uasset
 [2020.03.25-19.45.37:519][364]SourceControl: Commited [master 3c8624a] external safe/keypad branch.
+[2020.03.25-19.46.16:300][908]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Safe/KeypadActor.KeypadActor
+[2020.03.25-19.46.58:907][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-19.47.04:147][824]Cmd: TRANSACTION UNDO
+[2020.03.25-19.47.04:147][824]LogEditorTransaction: Undo Duplicate Component
+[2020.03.25-19.47.04:758][879]Cmd: TRANSACTION UNDO
+[2020.03.25-19.47.04:758][879]LogEditorTransaction: Undo Duplicate Component
+[2020.03.25-19.47.05:055][912]Cmd: TRANSACTION UNDO
+[2020.03.25-19.47.05:056][912]LogEditorTransaction: Undo Duplicate Component
+[2020.03.25-19.47.05:303][939]Cmd: TRANSACTION UNDO
+[2020.03.25-19.47.05:303][939]LogEditorTransaction: Undo Duplicate Component
+[2020.03.25-19.47.06:331][ 43]Cmd: TRANSACTION UNDO
+[2020.03.25-19.47.06:331][ 43]LogEditorTransaction: Undo Duplicate Component
+[2020.03.25-19.47.33:853][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.47.49:793][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.48.07:936][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.48.35:387][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.48.54:792][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.49.24:946][463]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.25-19.49.29:626][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.50.06:406][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-19.50.06:475][616]BlueprintLog: New page: Compile KeypadActor
+[2020.03.25-19.50.06:751][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.25-19.50.19:392][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-19.52.54:831][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.03.25-19.52.54:831][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2020.03.25-19.52.54:835][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Safe/KeypadActor] ([1] browsable assets)...
+[2020.03.25-19.52.54:846][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Safe/KeypadActor.KeypadActor]
+[2020.03.25-19.52.54:846][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Safe/KeypadActor]
+[2020.03.25-19.52.54:882][128]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/KeypadActor_Auto10957BC8A41159BCCC6BA7DB518EC9AF5.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Safe/KeypadActor_Auto1.uasset'
+[2020.03.25-19.52.54:883][128]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.03.25-19.58.02:597][289]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-20.01.48:269][310]LogEditorTransaction: Undo Move Node
+[2020.03.25-20.01.50:014][462]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.25-20.01.50:610][517]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_IfThenElse_1
+[2020.03.25-20.01.50:611][517]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_VariableGet_10 or K2Node_VariableGet /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_VariableGet_10
+[2020.03.25-20.01.50:611][517]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_CallFunction_7 or K2Node_CallFunction /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_CallFunction_7
+[2020.03.25-20.01.50:611][517]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_CallFunction_9 or K2Node_CallFunction /Game/Safe/Keypad1.Keypad1:EventGraph.K2Node_CallFunction_9
+[2020.03.25-20.02.41:297][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.25-20.03.03:154][358]LogSlate: Took 0.006127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.25-20.04.11:623][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.03.25-20.04.12:036][840]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap_Auto2584D66EB433325621CE44DADC32E8DCF.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.03.25-20.04.12:040][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.462
+[2020.03.25-20.04.12:040][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.462
+[2020.03.25-20.04.12:042][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.03.25-20.04.12:053][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.03.25-20.04.12:053][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.03.25-20.04.12:166][840]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonCharacter_Auto2AF01E3ED4AA0EFB72C7BC0A639FE5495.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.03.25-20.04.12:167][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Safe/Keypad1] ([1] browsable assets)...
+[2020.03.25-20.04.12:167][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Safe/Keypad1]
+[2020.03.25-20.04.12:167][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Safe/Keypad1" FILE="../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Safe/Keypad1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.25-20.04.12:257][840]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Keypad1_Auto2DA057F2C4044AFD0275FC0952C2CB659.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Safe/Keypad1_Auto2.uasset'
+[2020.03.25-20.04.12:258][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Safe/KeypadActor] ([1] browsable assets)...
+[2020.03.25-20.04.12:268][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Safe/KeypadActor.KeypadActor]
+[2020.03.25-20.04.12:268][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Safe/KeypadActor]
+[2020.03.25-20.04.12:310][840]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/KeypadActor_Auto243FFD7CE437EFB557CD5E7B4B2D8CCFA.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Autosaves/Game/Safe/KeypadActor_Auto2.uasset'
+[2020.03.25-20.04.12:311][840]LogFileHelpers: Auto-saving content packages took 0.269
+[2020.03.25-20.04.56:469][993]BlueprintLog: New page: Compile KeypadActor
+[2020.03.25-20.04.56:473][993]LogBlueprint: Error: [Compiler KeypadActor] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.03.25-20.04.56:710][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.03.25-20.04.56:718][993]LogBlueprint: Warning: [Compiler KeypadActor] [1466.41] Compile of KeypadActor failed. 1 Fatal Issue(s) 0 Warning(s) [in 248 ms] (/Game/Safe/KeypadActor.KeypadActor)
+[2020.03.25-20.05.31:929][542]BlueprintLog: New page: Compile KeypadActor
+[2020.03.25-20.05.32:150][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.03.25-20.07.53:538][838]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.25-20.07.53:863][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.03.25-20.09.21:316][437]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.25-20.09.21:625][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.03.25-20.10.38:045][479]BlueprintLog: New page: Compile Keypad1
+[2020.03.25-20.10.38:059][479]LogBlueprint: Error: [Compiler Keypad1] The property associated with  Current Actor  could not be found in '/Game/Safe/Keypad1.Keypad1_C'
+[2020.03.25-20.10.38:106][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.25-20.10.38:140][479]LogBlueprint: Warning: [Compiler Keypad1] [1807.83] Compile of Keypad1 failed. 1 Fatal Issue(s) 0 Warning(s) [in 94 ms] (/Game/Safe/Keypad1.Keypad1)
+[2020.03.25-20.10.45:644][214]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.25-20.10.45:955][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.03.25-20.10.47:432][329]BlueprintLog: New page: Compile Keypad1
+[2020.03.25-20.10.47:445][329]LogBlueprint: Warning: [Compiler Keypad1] Could not find the function 'ConfirmCode' called from  Confirm Code
+[2020.03.25-20.10.47:499][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.03.25-20.10.47:533][329]LogBlueprint: Warning: [Compiler Keypad1] [1817.23] Compile of Keypad1 successful, but with 1 Warning(s) [in 101 ms] (/Game/Safe/Keypad1.Keypad1)
+[2020.03.25-20.10.48:671][426]BlueprintLog: New page: Compile Keypad1
+[2020.03.25-20.10.48:681][426]LogBlueprint: Warning: [Compiler Keypad1] Could not find the function 'ConfirmCode' called from  Confirm Code
+[2020.03.25-20.10.48:733][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.03.25-20.10.48:768][426]LogBlueprint: Warning: [Compiler Keypad1] [1818.46] Compile of Keypad1 successful, but with 1 Warning(s) [in 97 ms] (/Game/Safe/Keypad1.Keypad1)
+[2020.03.25-20.10.58:781][448]BlueprintLog: New page: Compile KeypadActor
+[2020.03.25-20.10.59:026][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.03.25-20.11.00:209][550]BlueprintLog: New page: Compile Keypad1
+[2020.03.25-20.11.00:270][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.03.25-20.11.00:923][614]BlueprintLog: New page: Compile Keypad1
+[2020.03.25-20.11.00:984][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.25-20.11.01:816][692]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.03.25-20.11.01:822][692]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.03.25-20.11.01:966][692]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.25-20.11.09:610][580]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2020.03.25-20.11.23:669][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2020.03.25-20.11.24:456][160]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2020.03.25-20.12.03:803][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-20.12.08:599][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.25-20.12.09:516][  9]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-20.12.09:775][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Safe/Keypad1" FILE="../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/Safe/Keypad1.uasset" SILENT=true
+[2020.03.25-20.12.09:869][  9]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/Keypad1B667A5C44C542FBC474DA8A7C30A3FD3.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/Safe/Keypad1.uasset'
+[2020.03.25-20.12.09:895][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Safe/KeypadActor" FILE="../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/Safe/KeypadActor.uasset" SILENT=true
+[2020.03.25-20.12.09:945][  9]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/KeypadActor7507A69842680E6E13B367A0BFC28098.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/Safe/KeypadActor.uasset'
+[2020.03.25-20.12.10:081][  9]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonCharacter9EDE78234B4DD26C8342488866B2FC1B.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.25-20.12.10:130][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.03.25-20.12.10:552][  9]LogSavePackage: Moving '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Saved/ThirdPersonExampleMap3D761FC643721EFBFC5BE7A97E64AD54.tmp' to '../../../../Unreal Projects/GitHub Projects/CS447-3D-Game/CS447_3D_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.25-20.12.10:595][  9]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.504
+[2020.03.25-20.12.11:962][138]SourceControl: fatal: D:/William Lau/Epic Games/UE_4.22/Engine/Content: 'D:/William Lau/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2020.03.25-20.12.21:706][138]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-20.12.22:756][138]LogSourceControl: commit successful: [master 1fb869a] external branch keypad/safe 2
+[2020.03.25-20.12.22:982][138]SourceControl: [master 1fb869a] external branch keypad/safe 2
+[2020.03.25-20.12.22:982][138]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2020.03.25-20.12.22:982][138]SourceControl:  rewrite CS447_3D_Game/Content/Safe/Keypad1.uasset (61%)
+[2020.03.25-20.12.22:982][138]SourceControl:  rewrite CS447_3D_Game/Content/Safe/KeypadActor.uasset (90%)
+[2020.03.25-20.12.22:982][138]SourceControl:  rewrite CS447_3D_Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (85%)
+[2020.03.25-20.12.22:988][138]SourceControl: Commited [master 1fb869a] external branch keypad/safe 2.
